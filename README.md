@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @songbetter
-- 👀 I’m interested in pilates
+- 👀 I’m interested in pilates, driving and coding
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
