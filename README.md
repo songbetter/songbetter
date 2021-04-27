@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Tech Stack
 ### Front-end
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
 <img src="https://img.shields.io/badge/ReactRouter-CA4245?style=flat-square&logo=React-Router&logoColor=white"/>
@@ -34,14 +34,14 @@ You can click the Preview link to take a look at your changes.
 
 ### Back-end
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/RubyonRails-CC342D?style=flat-square&logo=Ruby&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/> 
 </p>
 
 ### Tool
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Trello-026AA7?style=flat-square&logo=Trello&logoColor=white"/>
   
