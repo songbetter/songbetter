@@ -37,21 +37,21 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
 <img src="https://img.shields.io/badge/RubyonRails-CC342D?style=flat-square&logo=Ruby&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 </p>
 
 ### Tool
 <p align="left">
-<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Trello-026AA7?style=flat-square&logo=Trello&logoColor=white"/>
+<img src="https://img.shields.io/badge/VisualStudio-1572B6?style=flat-square&logo=Visual-Studio&logoColor=white"/> 
   
+<img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trello-026AA7?style=flat-square&logo=Trello&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-5C2D91?style=flat-square&logo=Slack&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Jira-1572B6?style=flat-square&logo=Jira&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Wiki-026AA7?style=flat-square&logo=Wiki&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/StackOverflow-F58025?style=flat-square&logo=StackOverflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/MicrosoftExcel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"/> 
