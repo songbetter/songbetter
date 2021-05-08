@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning React, Ruby on Rails
 - 📫 How to reach me :<a href="https://velog.io/@songbetter"><img src="https://img.shields.io/badge/Velog-38B2AC?style=flat-square"/></a>
   <a href="mailto:5ongnaeu17@gmail.com"><img src="https://img.shields.io/badge/Gmail-F7342E?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.canva.com/design/DAEahNgSVDE/CjaS-j132TBfM7LEOzM2ug/view?utm_content=DAEahNgSVDE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"><img src="https://img.shields.io/badge/Resume-F7DF1E?style=flat-square&logo=Resume&logoColor=white"/></a>
+  <a href="https://programmers.co.kr/resumes/279420"><img src="https://img.shields.io/badge/Resume-F7DF1E?style=flat-square&logo=Resume&logoColor=white"/></a>
 </p>
 
 ## Tech Stack
@@ -53,7 +53,3 @@ You can click the Preview link to take a look at your changes.
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Yesterday&fontSize=90)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songbetter)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songbetter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
