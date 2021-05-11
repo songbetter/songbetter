@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 ## 👋 Hi, I’m @songbetter (=SongNaeun)
 - 👀 I’m interested in pilates, driving and coding 🤸‍♀️🚲🛴🚙
 - 🌱 I’m currently learning React, Ruby on Rails
-- 📫 How to reach me :<a href="https://velog.io/@songbetter"><img src="https://img.shields.io/badge/Velog-38B2AC?style=flat-square"/></a>
+- 📫 How to reach me :<a href="https://velog.io/@songbetter/series"><img src="https://img.shields.io/badge/Velog-38B2AC?style=flat-square"/></a>
   <a href="mailto:5ongnaeu17@gmail.com"><img src="https://img.shields.io/badge/Gmail-F7342E?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://programmers.co.kr/resumes/279420"><img src="https://img.shields.io/badge/Resume-F7DF1E?style=flat-square&logo=Resume&logoColor=white"/></a>
 </p>
