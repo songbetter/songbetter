@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning TypeScript, Next.js
 - 📫 How to reach me :<a href="https://velog.io/@songbetter/series"><img src="https://img.shields.io/badge/Velog-38B2AC?style=flat-square"/></a>
   <a href="mailto:5ongnaeu17@gmail.com"><img src="https://img.shields.io/badge/Gmail-F7342E?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/149JpnYuYEgiBp2EZyj4hqIq78rvfNj0E/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-F7DF1E?style=flat-square&logo=Resume&logoColor=white"/></a>
+ 
 </p>
 
 ## Tech Stack
@@ -27,6 +27,10 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 </p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songbetter&layout=compact)](https://github.com/songbetter/github-readme-stats)
+
 
 ### Back-end
 
