@@ -15,12 +15,10 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ## Tech Stack
-### Front-end
 <p align="left">
   
 <img src="https://img.shields.io/badge/Flutter-1572B6?style=flat-square&logo=Flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
-<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React & ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
 <img src="https://img.shields.io/badge/framework7-DC382D?style=flat-square&logo=framework7&logoColor=white"/>
 
 <p align="left">
@@ -33,12 +31,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songbetter&layout=compact)](https://github.com/songbetter/github-readme-stats)
 
-
-### Back-end
-
-<p align="left">
-<img src="https://img.shields.io/badge/RubyonRails-CC342D?style=flat-square&logo=Ruby&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/> 
-</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Yesterday&fontSize=90)
